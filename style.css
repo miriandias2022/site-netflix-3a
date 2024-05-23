@@ -20,7 +20,7 @@ padding: 0;
      background-image: url("img/background.png");
      background-repeat: no-repeat;
      background-size:contain;
-     grid- template-columns:50% 50%
+     grid-template-columns:50% 50%;
 }
     .container{
 
