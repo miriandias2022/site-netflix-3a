@@ -57,3 +57,7 @@ border: 2px solid var(--branco-principal);
 .container__caixa
     margin:0 6 em 
 }
+
+.secundario__imagem{
+    width:80%;
+}
