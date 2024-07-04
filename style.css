@@ -98,3 +98,23 @@ border: 2px solid var(--branco-principal);
     .dispositivos {
         text-align: center;
     }
+
+    .dispositivos__titulo {
+        font-size: 48px;
+        color: var(--branco-principal)
+    }
+
+    .rodape {
+        text-align:center;
+        margin: 5em 3em;
+
+    }
+
+    .rodape__text {
+        margin: 1em 0;
+        color: var(--cinza-secundario);
+        font-size: 14px;
+
+    }
+
+    
