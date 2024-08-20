@@ -112,7 +112,7 @@ border: 2px solid var(--branco-principal);
 
     .dispositivos__titulo {
         font-size: 48px;
-        color: var(--branco-principal)
+        color: var(--branco-principal);
     }
 
     .lista__item{
@@ -147,7 +147,7 @@ border: 2px solid var(--branco-principal);
     }
     
     .lista__link a:hover{
-        outline-color:var(--botao-azul);
+        color:var(--botao-azul);
     
     }
     .lista__link a:active{
